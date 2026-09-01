@@ -8,11 +8,11 @@ Computer Science undergraduate with a strong interest in theoretical computer sc
 
 Previously, I spent over four years as a Database Assistant at Teknisa Service S.A., where I focused on:
 
-* **Database Administration & Migration\*\*: Oracle Database, PostgreSQL, and SQL Server.
+* **Database Administration & Migration**: Oracle Database, PostgreSQL, and SQL Server.
 
-* **Infrastructure Automation\*\*: Bash scripting, sed, and awk in Linux environments for connection management and SQL generation.
+* **Infrastructure Automation**: Bash scripting, sed, and awk in Linux environments for connection management and SQL generation.
 
-* **Integration Tools\*\*: PL/SQL, ora2pg, and oracle\_fdw.
+* **Integration Tools**: PL/SQL, ora2pg, and oracle\_fdw.
 
 Beyond my screen, I stay active through weightlifting and running, and I spend my free time exploring alternative tunings on my acoustic guitar.
 
